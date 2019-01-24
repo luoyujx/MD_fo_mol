@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output ディレクトリの末尾がスラッシュではありません。Output ディレクトリが適切に評価されるようにするために、このビルド インスタンスによってスラッシュが追加されます。
+  stdafx.cpp
+c:\users\luoyu\source\repos\md_of_mol_new\stdafx.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  MD_fo_mol_03.cpp
+MD_fo_mol_03.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+  MD_fo_mol.vcxproj -> C:\Users\luoyu\source\repos\MD_of_mol_new\.\Release\MD_fo_mol.exe
